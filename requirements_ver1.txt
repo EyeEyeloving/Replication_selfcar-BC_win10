@@ -1,0 +1,11 @@
+eventlet~=0.29.1
+Pillow~=7.0.0
+Flask~=1.1.2
+opencv-python
+matplotlib
+sklearn~=0.0
+scikit-learn
+Keras~=2.4.3
+scikit-image
+python-engineio==3.13.0
+python-socketio==4.6.1
