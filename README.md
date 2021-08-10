@@ -4,7 +4,7 @@ The self-driving car trained by behavior cloning was provided on https://github.
 
 # Device
 
-LEGION y9000p - GTX 1660 ti - Windows10
+LEGION y7000p - GTX 1660 ti - Windows10
 
 By the way, I had download *CUDA_v9.2* because that I had met the problem https://github.com/iperov/DeepFaceLab/issues/5242 and tried to make it flowing the solution provided. As for that why I input `nvidia-smi` and then show me that `CUDA Version: 11.1`, I think it is just because that I have updated the *Display Adapter* in *Device Adapter* after I downloaded *CUDA_v9.2* . Is it necessary? I haven't been sure.
 
